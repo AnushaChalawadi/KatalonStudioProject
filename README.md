@@ -52,8 +52,8 @@ Use Custom Keywords for complex actions to improve maintainability.
 Leverage Katalon Reports & Logs for debugging and analysis.
 
 ### References
-- Katalon Course - (https://drive.google.com/file/d/1-8cJyLBuWb-tGfv2TyRiYIxDjcsA6SbU/view)
-- Youtube link - (https://www.youtube.com/watch?v=lcUgrciUCPg)
+- Katalon Course - https://drive.google.com/file/d/1-8cJyLBuWb-tGfv2TyRiYIxDjcsA6SbU/view
+- Youtube link - https://www.youtube.com/watch?v=lcUgrciUCPg
 
 
   
