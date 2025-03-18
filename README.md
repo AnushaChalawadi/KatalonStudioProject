@@ -23,15 +23,15 @@ Follow these steps to set up the project on your local machine:
 
  ### 3 Running Tests
  You can execute test cases in two ways:
-🔹 Running from Katalon Studio UI
+#### Running from Katalon Studio UI
  - Open Katalon Studio.
  - Select the desired Test Case or Test Suite.
  - Click the Run button and choose the browser/environment.
 	
-🔹 Running from Command Line
+ #### Running from Command Line
 To execute a test suite from the terminal:
-katalon -noSplash -runMode=console -projectPath="$(pwd)/your-project.prj" \
--testSuitePath="Test Suites/YourTestSuite" -browserType="Chrome"
+''' katalon -noSplash -runMode=console -projectPath="$(pwd)/your-project.prj" \
+-testSuitePath="Test Suites/YourTestSuite" -browserType="Chrome" '''
 
 ### Project Structure
 your-katalon-project/
@@ -46,10 +46,10 @@ your-katalon-project/
 │── your-project.prj      # Katalon project file
 
 📌 Best Practices
-Follow the Page Object Model (POM) to maintain reusable test scripts.
-Keep test data separate from test scripts using Data Files.
-Use Custom Keywords for complex actions to improve maintainability.
-Leverage Katalon Reports & Logs for debugging and analysis.
+- Follow the Page Object Model (POM) to maintain reusable test scripts.
+- Keep test data separate from test scripts using Data Files.
+- Use Custom Keywords for complex actions to improve maintainability.
+- Leverage Katalon Reports & Logs for debugging and analysis.
 
 ### References
 - Katalon Course - https://drive.google.com/file/d/1-8cJyLBuWb-tGfv2TyRiYIxDjcsA6SbU/view
