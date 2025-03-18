@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>testScript_demo</name>
+   <tag>@sanity @smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b449d50d-7db7-4e18-9c2c-2def6434b53d</testCaseGuid>
+</TestCaseEntity>
