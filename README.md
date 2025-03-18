@@ -24,9 +24,9 @@ Follow these steps to set up the project on your local machine:
  ### 3 Running Tests
  You can execute test cases in two ways:
 🔹 Running from Katalon Studio UI
- 	- Open Katalon Studio.
-	- Select the desired Test Case or Test Suite.
-	- Click the Run button and choose the browser/environment.
+ - Open Katalon Studio.
+ - Select the desired Test Case or Test Suite.
+ - Click the Run button and choose the browser/environment.
 	
 🔹 Running from Command Line
 To execute a test suite from the terminal:
